@@ -4,7 +4,7 @@ My name is Malte, I'm currently in my last year of med school but I also spend a
 
 I'm a doctoral student at the [bAIome](https://baiome.org) in Hamburg, Germany, where I focus on bioinformatic and AI methods for unsupervised and weakly-supervised biomedical image analysis in the context of immunological diseases.
 
-In 2020 I co-founded [KH Biotechnology](https://kh-biotechnology.com) where we focus on online education, e.g. as part of [hamnatvorbereitung.de](https://hamnatvorbereitung.de), and biomedical informatics.
+In 2020 I co-founded [KH Biotechnology](https://kh-biotechnology.com) where we focus on biomedical informatics and medical online education, e.g. as part of [hamnatvorbereitung.de](https://hamnatvorbereitung.de). We also do general web development and data science work for clients.
 
 For research purposes, you can contact me at: malte.benedikt.kuehl [at] studium.uni-hamburg.de
 
