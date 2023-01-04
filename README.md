@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Malte, I'm a medical doctor but I also spend a lot of my time coding.
+My name is Malte, I'm a physician but I also spend a lot of my time coding.
 
 I do research at the [bAIome](https://baiome.org) in Hamburg, Germany, where I focus on bioinformatic and AI methods for unsupervised and weakly-supervised biomedical image analysis in the context of immunological diseases.
 
