@@ -2,7 +2,7 @@
 
 My name is Malte, I'm a physician by education but I also spend a lot of my time coding.
 
-I'm a researcher at the [bAIome](https://baiome.org) in Hamburg, Germany, where I focus on bioinformatic and AI methods for unsupervised and weakly-supervised biomedical image analysis in the context of immunological diseases.
+I'm a researcher at the Department of Clinical Medicine at Aarhus Unversity, where I focus on bioinformatic and AI methods for the analysis of complex tissues.
 
 In 2020 I co-founded [KH Biotechnology](https://kh-biotechnology.com) where we focus on biomedical informatics and medical online education, e.g. as part of [hamnatvorbereitung.de](https://hamnatvorbereitung.de). We also do general web development, consulting and data science work for clients.
 
