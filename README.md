@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Malte, I'm a physician by training, but nowadays spend most of time coding.
+My name is Malte, I'm a physician by training, but nowadays spend most of my time coding.
 
 I'm a researcher at the Department of Clinical Medicine at Aarhus University, where I focus on bioinformatics and AI methods for complex tissue analysis.
 
